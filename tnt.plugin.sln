@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tnt.plugin", "tnt.plugin\tn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example", "Example\Example.csproj", "{03605B0D-250D-4836-9FDD-4B7D3B8ADA84}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tnt.configuration", "tnt.configurations\tnt.configuration\tnt.configuration.csproj", "{FDA0182F-AAD8-4BCB-82CC-E230F269A88A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{03605B0D-250D-4836-9FDD-4B7D3B8ADA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03605B0D-250D-4836-9FDD-4B7D3B8ADA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03605B0D-250D-4836-9FDD-4B7D3B8ADA84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA0182F-AAD8-4BCB-82CC-E230F269A88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA0182F-AAD8-4BCB-82CC-E230F269A88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA0182F-AAD8-4BCB-82CC-E230F269A88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA0182F-AAD8-4BCB-82CC-E230F269A88A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

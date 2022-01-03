@@ -21,6 +21,7 @@
     <PackageReference Include="Microsoft.Windows.Compatibility" Version="6.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\tnt.configurations\tnt.configuration\tnt.configuration.csproj" />
     <ProjectReference Include="..\tnt.plugin\tnt.plugin.csproj" />
   </ItemGroup>
 </Project>
